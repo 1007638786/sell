@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c436f22d-92ab-4ac0-ae27-373ec1d175a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Enum" />
+        <option value="Kotlin Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\apache-maven-3.6.2\tnck" />
+        <option name="mavenHome" value="G:/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="G:\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UUt7BoGnMYs191MIvQqB62hDaM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.imooc.sell.service.impl" />
+      <recent name="com.imooc.sell.repository" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.imooc.sell.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\sell\src\main\resources\static\api" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SellApplication">
+    <configuration name="OrderServiceImplTest.findlist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.sell.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.sell.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.sell.service.impl.OrderServiceImplTest" />
+      <option name="METHOD_NAME" value="findlist" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayServiceImplTest.creat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.sell.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.sell.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.sell.service.impl.PayServiceImplTest" />
+      <option name="METHOD_NAME" value="creat" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayServiceImplTest.refund" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.sell.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.sell.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.sell.service.impl.PayServiceImplTest" />
+      <option name="METHOD_NAME" value="refund" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductCategoryRepositoryTest.ProductCategory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.sell.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.sell.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.sell.repository.ProductCategoryRepositoryTest" />
+      <option name="METHOD_NAME" value="ProductCategory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.imooc.sell.controller in sell" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.sell.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.sell.controller" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SellApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sell" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.sell.SellApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OrderServiceImplTest.findlist" />
+        <item itemvalue="JUnit.PayServiceImplTest.refund" />
+        <item itemvalue="JUnit.PayServiceImplTest.creat" />
+        <item itemvalue="JUnit.ProductCategoryRepositoryTest.ProductCategory" />
+        <item itemvalue="JUnit.com.imooc.sell.controller in sell" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c436f22d-92ab-4ac0-ae27-373ec1d175a7" name="Default Changelist" comment="" />
+      <created>1575422831827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575422831827</updated>
+      <workItem from="1575422841964" duration="2289000" />
+      <workItem from="1575439332361" duration="32066000" />
+      <workItem from="1575590201819" duration="8569000" />
+      <workItem from="1575850743523" duration="42609000" />
+      <workItem from="1576546693345" duration="11391000" />
+      <workItem from="1576650467740" duration="3439000" />
+      <workItem from="1576720175022" duration="2989000" />
+      <workItem from="1577081563423" duration="19168000" />
+      <workItem from="1577234986900" duration="23822000" />
+      <workItem from="1578362632655" duration="41000" />
+      <workItem from="1578363293408" duration="1611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="406" y="149" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576574676287">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="406" y="149" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1576574676287" />
+    <state x="446" y="33" key="#com.intellij.ide.util.MemberChooser" timestamp="1577685877873">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="33" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1577685877873" />
+    <state x="318" y="268" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1575459515092">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="318" y="268" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1575459515092" />
+    <state x="430" y="207" width="421" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1575543786780">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="430" y="207" width="421" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1575543786780" />
+    <state x="396" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1575596106760">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1575596106760" />
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1577169533205">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1577169533205" />
+    <state x="427" y="95" key="FileChooserDialogImpl" timestamp="1578365517235">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="427" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1578365517235" />
+    <state width="1237" height="136" key="GridCell.Tab.0.bottom" timestamp="1578307832524">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="136" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578307832524" />
+    <state width="1237" height="136" key="GridCell.Tab.0.center" timestamp="1578307832523">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="136" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578307832523" />
+    <state width="1237" height="136" key="GridCell.Tab.0.left" timestamp="1578307832523">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="136" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578307832523" />
+    <state width="1237" height="136" key="GridCell.Tab.0.right" timestamp="1578307832524">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="136" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578307832524" />
+    <state width="1237" height="136" key="GridCell.Tab.1.bottom" timestamp="1578307832524">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="136" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578307832524" />
+    <state width="1237" height="136" key="GridCell.Tab.1.center" timestamp="1578307832524">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="136" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1578307832524" />
+    <state width="1237" height="136" key="GridCell.Tab.1.left" timestamp="1578307832524">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="136" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1578307832524" />
+    <state width="1237" height="136" key="GridCell.Tab.1.right" timestamp="1578307832524">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="136" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1578307832524" />
+    <state width="1237" height="165" key="GridCell.Tab.2.bottom" timestamp="1578307826335">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="165" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578307826335" />
+    <state width="1237" height="165" key="GridCell.Tab.2.center" timestamp="1578307826335">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="165" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1578307826335" />
+    <state width="1237" height="165" key="GridCell.Tab.2.left" timestamp="1578307826335">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="165" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1578307826335" />
+    <state width="1237" height="165" key="GridCell.Tab.2.right" timestamp="1578307826335">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="165" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1578307826335" />
+    <state x="148" y="0" key="SettingsEditor" timestamp="1578365220866">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="148" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1578365220866" />
+    <state x="275" y="203" width="631" height="327" key="com.intellij.ide.util.TipDialog" timestamp="1578363293671">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="275" y="203" width="631" height="327" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1578363293671" />
+    <state x="412" y="58" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1577089372850">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="58" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1577089372850" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1576572684768">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1576572684768" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/imooc/sell/service/impl/OrderServiceImplTest.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/imooc/sell/service/impl/OrderServiceImpl.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/imooc/sell/controller/PayController.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/imooc/sell/controller/SellerOrderController.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="returnUrl" language="JAVA" />
+        <watch expression="returnUrl+&quot;?openId=&quot;+openId" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sell$com_imooc_sell_controller_in_sell.ic" NAME="com.imooc.sell.controller in sell Coverage Results" MODIFIED="1576562801646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.imooc.sell.controller.*</FILTER>
+    </SUITE>
+  </component>
+</project>

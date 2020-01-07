@@ -1,0 +1,69 @@
+{
+  "groups": [
+    {
+      "name": "wechat",
+      "type": "com.imooc.sell.config.WechatAccountConfig",
+      "sourceType": "com.imooc.sell.config.WechatAccountConfig"
+    },
+    {
+      "name": "wechatpay",
+      "type": "com.imooc.sell.config.WeChatPayAccountConfig",
+      "sourceType": "com.imooc.sell.config.WeChatPayAccountConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "wechat.mp-app-id",
+      "type": "java.lang.String",
+      "sourceType": "com.imooc.sell.config.WechatAccountConfig"
+    },
+    {
+      "name": "wechat.mp-app-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.imooc.sell.config.WechatAccountConfig"
+    },
+    {
+      "name": "wechatpay.app-secret",
+      "type": "java.lang.String",
+      "description": "公众号appSecret",
+      "sourceType": "com.imooc.sell.config.WeChatPayAccountConfig"
+    },
+    {
+      "name": "wechatpay.key-path",
+      "type": "java.lang.String",
+      "description": "商户证书路径",
+      "sourceType": "com.imooc.sell.config.WeChatPayAccountConfig"
+    },
+    {
+      "name": "wechatpay.mch-id",
+      "type": "java.lang.String",
+      "description": "商户号",
+      "sourceType": "com.imooc.sell.config.WeChatPayAccountConfig"
+    },
+    {
+      "name": "wechatpay.mch-key",
+      "type": "java.lang.String",
+      "description": "商户密钥",
+      "sourceType": "com.imooc.sell.config.WeChatPayAccountConfig"
+    },
+    {
+      "name": "wechatpay.mp-app-id",
+      "type": "java.lang.String",
+      "description": "公众号appId",
+      "sourceType": "com.imooc.sell.config.WeChatPayAccountConfig"
+    },
+    {
+      "name": "wechatpay.notify-url",
+      "type": "java.lang.String",
+      "description": "微信异步通知",
+      "sourceType": "com.imooc.sell.config.WeChatPayAccountConfig"
+    },
+    {
+      "name": "wechatpay.ssl-context",
+      "type": "javax.net.ssl.SSLContext",
+      "description": "证书内容",
+      "sourceType": "com.imooc.sell.config.WeChatPayAccountConfig"
+    }
+  ],
+  "hints": []
+}
